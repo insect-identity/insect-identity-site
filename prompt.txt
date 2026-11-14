@@ -1,0 +1,394 @@
+INSECT IDENTITY
+
+ENTOMOLOGY × HAUTE COUTURE
+
+AI Insect Identity Fashion Portrait | Version 7.7
+
+Create one vertical 9:16 photorealistic luxury fashion editorial portrait using the uploaded reference photograph.
+
+Select exactly ONE real, scientifically documented insect species that artistically complements the subject’s visible facial impression and aesthetic presence.
+
+Transform its authentic biological characteristics into an original haute couture ensemble.
+
+Combine the scientific elegance of an entomological field guide with the sophistication of a luxury fashion magazine.
+
+This is an appearance-based creative styling experience designed to encourage curiosity about real insects. It is not a scientific diagnosis, personality assessment, or psychological evaluation.
+
+Keep the selected insect secret until the completed image is revealed.
+
+⸻
+
+01 | STRICT INSECT CLASSIFICATION
+
+Select only species belonging to the biological class Insecta.
+
+Consider insects from diverse orders, including beetles, moths, butterflies, mantises, dragonflies, damselflies, cicadas, true bugs, grasshoppers, katydids, stick insects, cockroaches, flies, bees, and wasps.
+
+Spiders, scorpions, mites, ticks, centipedes, millipedes, crustaceans, and all other non-insect arthropods are excluded.
+
+Taxonomic eligibility is mandatory.
+
+⸻
+
+02 | INDIVIDUALIZED INSECT SELECTION
+
+Select the insect species before designing the fashion ensemble.
+
+Internally consider plausible candidates from at least four different insect orders.
+
+Base the artistic selection primarily on:
+
+* Visible facial impression
+* Expression and gaze
+* Overall aesthetic presence
+* Artistic compatibility with authentic insect morphology
+
+Do not automatically favor colorful, glamorous, popular, or conventionally beautiful insects.
+
+Treat less celebrated insects as equally valid candidates.
+
+Choose one convincing artistic match rather than selecting randomly.
+
+Do not infer personality, mental state, psychological characteristics, or sensitive personal attributes.
+
+SYMBOLIC DETAILS
+
+Tattoos, piercings, jewelry motifs, printed animals, fictional character associations, and background decorations must not determine the insect selection.
+
+These elements may remain part of the subject’s appearance but must not control the artistic decision.
+
+⸻
+
+03 | FLEXIBLE COLOR INFLUENCE
+
+Reference colors may serve as secondary aesthetic inspiration during insect selection.
+
+Clothing colors, hair accessories, and decorative colors may contribute to artistic harmony, but facial impression and authentic insect morphology remain the primary criteria.
+
+An insect whose genuine natural colors complement the reference photograph is welcome.
+
+An insect whose natural colors contrast with the reference photograph is equally welcome.
+
+Do not automatically force color matching or deliberately force color contrast.
+
+Reference colors may influence species selection, but must never alter the selected insect’s actual biological coloration.
+
+⸻
+
+04 | INTERNAL TAXONOMIC IDENTIFICATION
+
+Before designing the image, establish the identity of exactly one real insect species.
+
+STEP A — SCIENTIFIC IDENTIFICATION
+
+Determine the species’ accepted scientific name and confirm its classification within Insecta.
+
+The scientific name is used internally as the taxonomic reference.
+
+STEP B — JAPANESE NAME VERIFICATION
+
+Identify the established Japanese common name corresponding to that exact species.
+
+When research tools are available, consult reliable sources such as:
+
+* Japanese natural history museums
+* Established Japanese entomological databases
+* Academic and scientific institutions
+* Catalogue of Life
+* GBIF and other recognized taxonomic resources
+
+Check that the Japanese name genuinely identifies the selected species rather than a related species, genus, family, or broader group.
+
+Never invent Japanese names or create approximate translations.
+
+Do not claim verification unless a reliable source was actually consulted.
+
+STEP C — SPECIES RESELECTION RULE
+
+If the Japanese common name cannot be established with sufficient confidence, reject that candidate and select another well-documented insect species.
+
+Prefer species with clearly established Japanese common names.
+
+Never substitute an uncertain or fabricated Japanese name to complete the design.
+
+STEP D — LOCK THE SPECIES IDENTITY
+
+Once established, use the same species consistently for:
+
+* Japanese common name
+* Internal scientific identity
+* Living insect specimen
+* Natural coloration and markings
+* Anatomical characteristics
+* Haute couture inspiration
+
+Never combine different species.
+
+⸻
+
+05 | JAPANESE-ONLY SPECIES LABEL
+
+Display exactly ONE insect species name in the final image: its established Japanese common name.
+
+MANDATORY RULES
+
+* Display the Japanese common name prominently.
+* Do not display the scientific name.
+* Do not display English common names.
+* Do not display translated insect names.
+* Do not invent Japanese species names.
+* Do not substitute broad group names for precise species identification.
+* Do not add alternative species names or uncertain taxonomic labels.
+
+The internal scientific name must never appear in the final artwork.
+
+If a reliable Japanese name cannot be established, select another documented species before generating the image.
+
+Accuracy is more important than species rarity or visual novelty.
+
+⸻
+
+06 | NON-NEGOTIABLE BIOLOGICAL COLOR ACCURACY
+
+The selected insect’s authentic, documented natural coloration must remain unchanged in the living specimen and form the dominant color palette of the couture.
+
+This requirement takes priority over visual harmony with the reference photograph.
+
+LIVING INSECT
+
+Preserve genuine:
+
+* Natural body colors
+* Wing coloration and transparency
+* Authentic markings and patterns
+* Documented iridescence
+* Anatomical characteristics
+* Body proportions
+
+Do not recolor the insect to match the reference photograph.
+
+Never invent unnatural color variants or combine characteristics from different species.
+
+Documented natural variation between sexes, seasons, geographic populations, and individual specimens may be represented accurately.
+
+COUTURE COLOR TRANSLATION
+
+Identify the selected insect’s actual dominant and secondary colors before designing the ensemble.
+
+Translate these documented colors into the couture’s main palette.
+
+Do not replace its primary natural colors with the subject’s preferred colors.
+
+For example:
+
+* A naturally orange-and-brown butterfly must inspire predominantly orange, brown, or related authentic tones, even if the reference photograph is pink.
+* A naturally green mantis must retain green as an identifiable main fashion color.
+* A naturally black-and-yellow dragonfly must not become predominantly blue unless that blue is supported by its genuine coloration.
+* A naturally pink-and-olive moth may inspire pink-and-olive couture.
+
+PERSONAL COLOR ACCENTS
+
+Reference colors may appear in ribbons, accessories, embroidery, jewelry, or minor garment details.
+
+These accents must not overpower the selected insect’s authentic color identity.
+
+Biological authenticity takes priority over aesthetic color matching.
+
+⸻
+
+07 | SCIENTIFICALLY FAITHFUL LIVING INSECT
+
+Include exactly ONE visible living specimen of the selected species.
+
+Depict its:
+
+* Authentic natural coloration
+* Documented markings
+* Accurate wing structure
+* Plausible leg and antenna anatomy
+* Realistic proportions and scale
+* Biologically plausible posture
+
+Do not enlarge the insect into an unrealistic fantasy creature or modify its anatomy for decorative purposes.
+
+Position it naturally on a suitable plant, flower, branch, garment, or nearby surface.
+
+Keep it visible without obscuring the model’s face.
+
+⸻
+
+08 | INDIVIDUALIZED HAUTE COUTURE
+
+Create one original luxury couture ensemble inspired by the species’ genuine morphology, natural colors, patterns, and textures.
+
+Explore:
+
+* Refined minimalist tailoring
+* Sculptural gowns and dresses
+* Architectural suits
+* Elegant layered garments
+* Pleating, embroidery, and fine lace
+* Organic and geometric silhouettes
+* Premium fabrics and experimental textiles
+* Species-inspired fashion accessories
+
+Translate authentic biological features into sophisticated fashion rather than literal insect costumes.
+
+Avoid automatically repeating metallic jackets, oversized shoulders, armor-like garments, or butterfly-wing silhouettes.
+
+Create fully dressed, tasteful, non-revealing couture.
+
+Keep the subject entirely human.
+
+⸻
+
+09 | HUMAN IDENTITY PRESERVATION
+
+Preserve the subject’s recognizable:
+
+* Facial features and proportions
+* Hairstyle and hair color
+* Apparent age
+* Natural skin tone and texture
+* Visible tattoos and body markings
+* Piercings and distinctive physical details
+
+Tattoos and symbolic details must not determine the insect species, but must remain recognizable.
+
+Do not remove, redesign, relocate, or recolor existing tattoos.
+
+ACCESSORY HANDLING
+
+Distinctive accessories such as hair bows, ornaments, and jewelry may retain their recognizable shape and placement.
+
+Their decorative colors may remain as personal accents or adapt to the selected insect’s authentic palette.
+
+Preserve the person’s recognizable identity while allowing fashion styling to evolve.
+
+Avoid excessive beautification, identity drift, or anatomical distortion.
+
+⸻
+
+10 | DYNAMIC EDITORIAL COMPOSITION
+
+Choose an individualized composition appropriate to the selected species and couture design.
+
+Vary:
+
+* Full-body, three-quarter, waist-up, or portrait framing
+* Camera distance and angle
+* Standing, walking, sitting, or naturally composed poses
+* Gaze and facial expression
+* Garment silhouette and fabric movement
+* Background and lighting
+
+Avoid repeatedly placing hands against the chin, cheek, or lips.
+
+Possible settings include natural habitats, botanical architecture, minimalist luxury studios, sculptural installations, and atmospheric landscapes.
+
+Avoid repeating identical forest backgrounds or editorial poses.
+
+Use professional cinematic lighting while preserving the insect’s genuine coloration.
+
+⸻
+
+11 | SCIENTIFIC EDITORIAL GRAPHIC DESIGN
+
+Canvas: Vertical 9:16
+
+Combine luxury fashion magazine typography with scientific entomology field-guide aesthetics.
+
+FIXED HEADER
+
+INSECT IDENTITY
+
+FIXED SUBTITLE
+
+ENTOMOLOGY × HAUTE COUTURE
+
+SPECIES REVEAL
+
+Display only the established Japanese common name of the selected insect.
+
+Do not display scientific names, English common names, or other insect identification labels.
+
+Use elegant Japanese typography, refined serif lettering, balanced negative space, and subtle scientific illustration aesthetics.
+
+Include one short original Japanese editorial tagline inspired by the selected species’ authentic biological characteristics.
+
+Keep text readable and clear of the subject’s face, living insect, and essential garment details.
+
+Maintain consistent series branding while allowing varied editorial layouts.
+
+⸻
+
+12 | FINAL QUALITY CONTROL
+
+Before image generation, internally confirm:
+
+TAXONOMIC ACCURACY
+
+* The selected organism belongs to Insecta.
+* The internal scientific name identifies one real species.
+* The Japanese common name corresponds to that exact species.
+* No scientific or English species names appear in the final design.
+* The living insect matches the selected species.
+
+BIOLOGICAL COLOR ACCURACY
+
+* The living insect retains authentic natural coloration.
+* The couture’s dominant colors derive from the insect’s genuine natural palette.
+* Personal colors appear only as optional secondary accents.
+* No artificial biological color variants have been introduced.
+
+HUMAN & EDITORIAL QUALITY
+
+* The subject remains recognizable.
+* Tattoos and distinctive physical features remain intact.
+* Fashion is tasteful and non-revealing.
+* Pose, framing, and composition are individualized.
+* The result contains one human subject and one living insect specimen.
+
+When image inspection and editing tools are available, verify the rendered Japanese name and correct detected errors when supported.
+
+Do not claim verification or correction that was not actually performed.
+
+⸻
+
+13 | IMMEDIATE GENERATION & SURPRISE REVEAL
+
+When this prompt and a reference photograph are supplied, begin the complete workflow immediately.
+
+Perform species selection, available scientific verification, couture design, and image generation without requesting additional approval.
+
+Do not reveal the selected insect before generating the artwork.
+
+Do not provide preliminary analysis, explanations, design proposals, or confirmation questions.
+
+Reveal the selected insect exclusively through the completed image.
+
+FINAL OUTPUT REQUIREMENTS
+
+* Exactly one human subject
+* Exactly one real species belonging to Insecta
+* Exactly one visible living insect specimen
+* One original haute couture ensemble
+* Authentic biological coloration
+* Insect-driven couture color palette
+* Optional personal color accents
+* Exactly one Japanese species name
+* No scientific or English species names
+* Preserved recognizable human identity
+* Varied professional editorial composition
+* One complete vertical 9:16 image
+* No collage or multiple panels
+
+If no reference photograph is provided, request one.
+
+Otherwise, generate the completed image directly.
+
+⸻
+
+INSECT IDENTITY
+
+Discover your nature. Wear your identity.
